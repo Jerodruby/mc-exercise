@@ -1,6 +1,6 @@
 # mc-exercise
 
-1 - Bob create repo called "mc-exercise"
+1 - Bob create repo called "mc-exercise" <br>
 2 - add all others as collabs
 3 - add FUBAR.md to master branch
 4 - everyone else pull down
